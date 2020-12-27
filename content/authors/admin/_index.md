@@ -1,39 +1,40 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Caitlin Simopoulos, PhD 
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Postdoctoral Associate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
+- name: University of Ottawa
   url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I use computational biology and machine learning to understand the world around me!
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- \-omics Technologies
+- Machine learning
+- Microbiomes
+- Science Communication
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: PhD in Computational Biology
+    institution: McMaster University
+    year: 2019
+  - course: Masters of Bioinformatics (MBinf)
+    institution: University of Guelph
+    year: 2014
+  - course: BSc in Molecular Biology and Genetics
+    institution: University of Guelph
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -45,13 +46,13 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
+  link: https://twitter.com/caitsimop
+- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/caitsimop
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/
@@ -67,11 +68,11 @@ social:
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a Postdoctoral Associate in Bioinformatics in the Northomics lab at the University of Ottawa. Co-supervised by Dr Daniel Figeys and Dr Mathieu Lavallee-Adam, I'm currently studying the effects of drugs on the gut microbiome using metaproteomics. I'm interested in creating user-friendly bioinformatics tools for specialized data analysis. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I'm also extremely passionate about science communication and outreach. I love volunteering as a mentor promoting gender equality in STEM fields, and promoting science literacy through open conversations and classroom visits.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Click here to download  my {{< staticref "media/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
