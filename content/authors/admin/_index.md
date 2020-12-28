@@ -11,7 +11,7 @@ role: Postdoctoral Associate
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: University of Ottawa
-  url: https://www.stanford.edu/
+  url: https://www.uOttawa.ca/
 
 # Short bio (displayed in user profile at end of posts)
 bio: I use computational biology and machine learning to understand the world around me!
@@ -43,7 +43,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: 'mailto:caitlin.simopoulos@gmail.com'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/caitsimop
