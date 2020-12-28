@@ -2,7 +2,10 @@
 title: "Coding and long non-coding RNAs provide evidence of distinct transcriptional reprogramming for two ecotypes of the extremophile plant Eutrema salsugineum undergoing water deficit stress"
 date: 2020-01-01
 publishDate: 2020-12-28T21:45:11.075339Z
-authors: ["Caitlin MA Simopoulos", "Mitchell JR MacLeod", "Solmaz Irani", "Wilson WL Sung", "Marc J Champigny", "Peter S Summers", "G Brian Golding", "Elizabeth A Weretilnyk"]
+authors: ["admin", "Mitchell JR MacLeod", "Solmaz Irani", "Wilson WL Sung", "Marc J Champigny", "Peter S Summers", "G Brian Golding", "Elizabeth A Weretilnyk"]
+author_notes:
+    - "Equal contributions"
+    - "Equal contributions"
 publication_types: ["2"]
 doi: "https://doi.org/10.1186/s12864-020-06793-7"
 abstract: "**Background:**

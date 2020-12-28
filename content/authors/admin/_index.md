@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Caitlin Simopoulos, PhD 
+title: Caitlin Simopoulos
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Associate
+role: PhD, Postdoctoral Associate
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -20,6 +20,7 @@ bio: I use computational biology and machine learning to understand the world ar
 interests:
 - \-omics Technologies
 - Machine learning
+- lncRNAs
 - Microbiomes
 - Science Communication
 
@@ -40,6 +41,7 @@ education:
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
+#   https://jpswalsh.github.io/academicons/
 social:
 - icon: envelope
   icon_pack: fas
@@ -49,13 +51,16 @@ social:
   link: https://twitter.com/caitsimop
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.ca/citations?user=ap3FfWEAAAAJ&hl=en 
 - icon: github
   icon_pack: fab
   link: https://github.com/caitsimop
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Caitlin_Simopoulos
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -71,8 +76,8 @@ email: ""
 highlight_name: true
 ---
 
-I am a Postdoctoral Associate in Bioinformatics in the Northomics lab at the University of Ottawa. Co-supervised by Dr Daniel Figeys and Dr Mathieu Lavallee-Adam, I'm currently studying the effects of drugs on the gut microbiome using metaproteomics. I'm interested in creating user-friendly bioinformatics tools for specialized data analysis. 
+I'm Caitlin Simopoulos, a Postdoctoral Associate in Bioinformatics in the [NorthOmics lab](https://www.northomics.ca)  at the [University of Ottawa](https://med.uottawa.ca/bmi/en). Co-supervised by [Dr Daniel Figeys](https://med.uottawa.ca/bmi/en/people/figeys-daniel) and [Dr Mathieu Lavallée-Adam](https://med.uottawa.ca/bmi/en/people/lavallee-adam-mathieu), I'm currently studying the effects of drugs on the gut microbiome using metaproteomics. I'm interested in creating user-friendly bioinformatics tools for specialized data analysis. 
 
-I'm also extremely passionate about science communication and outreach. I love volunteering as a mentor promoting gender equality in STEM fields, and promoting science literacy through open conversations and classroom visits.
+I'm also extremely passionate about science communication and outreach. I love volunteering as a mentor promoting gender equality in STEM fields and promoting science literacy through open conversations and classroom visits.
 
-{{< icon name="download" pack="fas" >}} Click here to download  my {{< staticref "media/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Click {{< staticref "media/resume.pdf" "newtab" >}}here{{< /staticref >}} to download my CV.
