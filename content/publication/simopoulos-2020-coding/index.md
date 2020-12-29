@@ -7,6 +7,14 @@ author_notes:
     - "Equal contributions"
     - "Equal contributions"
 publication_types: ["2"]
+tags:
+    - lncRNA
+    - Transcriptomics
+    - Machine learning
+    - Extremophile
+    - Eutrema salsugineum
+    - Evolution
+
 doi: "https://doi.org/10.1186/s12864-020-06793-7"
 abstract: "**Background:**
 The severity and frequency of drought has increased around the globe, creating challenges in ensuring food security for a growing world population. As a consequence, improving water use efficiency by crops has become an important objective for crop improvement. Some wild crop relatives have adapted to extreme osmotic stresses and can provide valuable insights into traits and genetic signatures that can guide efforts to improve crop tolerance to water deficits. *Eutrema salsugineum*, a close relative of many cruciferous crops, is a halophytic plant and extremophyte model for abiotic stress research.

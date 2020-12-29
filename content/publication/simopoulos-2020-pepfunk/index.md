@@ -3,6 +3,11 @@ title: "pepFunk: a tool for peptide-centric functional analysis of metaproteomic
 date: 2020-07-15
 publishDate: 2020-12-28T21:45:11.074857Z
 authors: ["admin", "Zhibin Ning", "Xu Zhang", "Leyuan Li", "Krystal Walker", "Mathieu Lavallée-Adam", "Daniel Figeys"]
+tags:
+    - Metaproteomics
+    - Microbiome
+    - Software
+    - Shiny 
 publication_types: ["2"]
 doi: "https://doi.org/10.1093/bioinformatics/btaa289"
 abstract: "**Motivation:**

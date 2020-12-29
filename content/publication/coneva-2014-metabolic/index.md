@@ -22,6 +22,10 @@ author_notes:
 - "Equal contribution"
 - "Equal contribution"
 
+tags:
+    - Co-expression network
+    - Metabolomics 
+
 publication_types: ["2"]
 abstract: "**Background:**
 Understanding gene expression and metabolic re-programming that occur in response to limiting nitrogen (N) conditions in crop plants is crucial for the ongoing progress towards the development of varieties with improved nitrogen use efficiency (NUE). To unravel new details on the molecular and metabolic responses to N availability in a major food crop, we conducted analyses on a weighted gene co-expression network and metabolic profile data obtained from leaves and roots of rice plants adapted to sufficient and limiting N as well as after shifting them to limiting (reduction) and sufficient (induction) N conditions.

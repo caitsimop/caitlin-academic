@@ -8,6 +8,12 @@ authors:
     - Elizabeth Weretilnyk
     - Brian Golding
 doi: "https://doi.org/10.1007/s11627-018-9920-3"
+tags: 
+    - lncRNA
+    - Machine learning
+    - Eutrema salsugineum
+    - Transcriptomics
+    - Extremophile
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;

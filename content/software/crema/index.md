@@ -1,12 +1,13 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: CREMA
+summary: Classifying RNA by Ensemble Machine learning Algorithm.
 tags:
-- Deep Learning
+- lncRNA
+- Machine learning
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://github.com/gbgolding/crema"
 
 image:
   caption: Photo by rawpixel on Unsplash
