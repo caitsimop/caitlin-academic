@@ -36,6 +36,9 @@ enableRobotsTXT = true
 footnotereturnlinkcontents = "<sup>^</sup>"
 ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
 
+## Google Analytics
+googleAnalytics = "G-R9HRF4P6Q1"
+
 # Workaround Hugo publishing taxonomy URLs as plurals - consistently use singular across Academic.
 [permalinks]
   tags = "/tag/:slug/"
