@@ -9,7 +9,7 @@ date: "2016-04-27T00:00:00Z"
 external_link: "https://shiny.imetalab.ca/pepFunk/"
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Figure from pepFunk manuscript
   focal_point: Smart
 
 links:

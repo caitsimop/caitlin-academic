@@ -88,7 +88,7 @@ show_related = {book = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "caitlin.simopouos@gmail.com"
+email = "csimopou@uOttawa.ca"
 phone = ""
 
 # Address
@@ -116,7 +116,7 @@ directions = ""
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/caitsimop"},
+  {icon = "twitter", icon_pack = "fab", name = "Follow me on Twitter!", link = "https://twitter.com/caitsimop"},
   #{icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
  # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   #{icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
@@ -128,7 +128,7 @@ contact_links = [
 ############################
 
 # Default image for social sharing and search engines. Place image in `static/media/` folder and specify image name here.
-sharing_image = ""
+sharing_image = "caitlin.jpg"
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
 twitter = "caitsimop"
@@ -144,7 +144,7 @@ date_format = "Jan 2, 2006"
 time_format = "3:04 PM"
 
 # Address format (en-us, en-gb, de, fr-fr, zh).
-address_format = "en-us"
+address_format = "en-gb"
 
 ############################
 ## Advanced
@@ -188,7 +188,7 @@ plugins_js  = []
 [publications]
   # Date format (refer to https://wowchemy.com/docs/customization/#date-format )
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
-  date_format = "January 2006"
+  date_format = "2006-01-02"
 
   # Citation style ("apa" or "mla")
   citation_style = "apa"

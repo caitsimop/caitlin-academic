@@ -10,7 +10,7 @@ date: "2016-04-27T00:00:00Z"
 external_link: "https://github.com/gbgolding/crema"
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Screenshot of GitHub landing page
   focal_point: Smart
 
 links:
