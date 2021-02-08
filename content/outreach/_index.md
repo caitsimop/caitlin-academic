@@ -1,5 +1,5 @@
 ---
-title: Posts
+title: Outreach activities
 
 # View.
 #   1 = List

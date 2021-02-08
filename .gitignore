@@ -8,3 +8,4 @@ public/
 
 # OS
 *.DS_Store
+.Rproj.user
