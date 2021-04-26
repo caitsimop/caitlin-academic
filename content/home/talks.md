@@ -11,7 +11,7 @@ active: true
 # Order that this section appears on the page.
 weight: 70
 
-title: 'A recent virtual talk'
+title: 'Recent virtual talks'
 subtitle:
 
 content:
@@ -39,5 +39,5 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 3
+  view: 2
 ---
