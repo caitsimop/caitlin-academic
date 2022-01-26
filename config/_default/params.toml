@@ -128,7 +128,7 @@ contact_links = [
 ############################
 
 # Default image for social sharing and search engines. Place image in `static/media/` folder and specify image name here.
-sharing_image = "caitlin.jpg"
+sharing_image = "caitlin2021.jpg"
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
 twitter = "caitsimop"
@@ -202,7 +202,7 @@ plugins_js  = []
   #   4: Citation (publications only)
   post_view = 2
   publication_view = 2
-  talk_view = 2
+  talk_view = 1
 
 ############################
 ## Comments

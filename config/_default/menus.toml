@@ -29,6 +29,12 @@
   weight = 30
 
 [[main]]
+  name = "R tutorials"
+  url = "https://github.com/northomics/R_tutorials"
+  weight = 35
+
+
+[[main]]
   name = "Contact"
   url = "#contact"
   weight = 40
