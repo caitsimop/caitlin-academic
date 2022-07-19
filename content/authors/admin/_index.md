@@ -6,12 +6,12 @@ title: Caitlin Simopoulos
 superuser: true
 
 # Role/position/tagline
-role: PhD, Postdoctoral Associate
+role: PhD, Computational Biologist (Contract)
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Ottawa
-  url: https://www.uOttawa.ca/
+- name: Roche/Genentech
+  url:
 
 # Short bio (displayed in user profile at end of posts)
 bio: I use computational biology and machine learning to understand the world around me!
@@ -76,8 +76,13 @@ email: ""
 highlight_name: true
 ---
 
-I'm Caitlin Simopoulos, a Postdoctoral Associate in Bioinformatics in the [NorthOmics lab](https://www.northomics.ca)  at the [University of Ottawa](https://med.uottawa.ca/bmi/en). Co-supervised by [Dr Daniel Figeys](https://med.uottawa.ca/bmi/en/people/figeys-daniel) and [Dr Mathieu Lavallée-Adam](https://med.uottawa.ca/bmi/en/people/lavallee-adam-mathieu), I'm currently studying the effects of drugs on the gut microbiome using metaproteomics. I'm interested in creating user-friendly bioinformatics tools for specialized data analysis. 
+I'm Caitlin Simopoulos, a Computational Biologist and Data Scientist currently working for Roche. 
+I work closely with gRED Scientists at Genentech to find computational solutions to their omics data challenges. 
+I'm also interested in creating user-friendly bioinformatics tools for specialized data analysis. 
 
 I'm also extremely passionate about science communication and outreach. I love volunteering as a mentor promoting gender equality in STEM fields and promoting science literacy through open conversations and classroom visits.
+
+When I'm not sciencing, you'll find me riding my bike, practicing yoga, snuggling with my cats, or taking my giant Bernese Mountain Dog for a hike!
+
 
 {{< icon name="download" pack="fas" >}} Click {{< staticref "media/resume.pdf" "newtab" >}}here{{< /staticref >}} to download my CV.
