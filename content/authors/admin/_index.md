@@ -57,7 +57,7 @@ social:
   link: https://github.com/caitsimop
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/caitlin-simopoulos/
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Caitlin_Simopoulos
