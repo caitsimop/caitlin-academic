@@ -6,23 +6,23 @@ title: Caitlin Simopoulos
 superuser: true
 
 # Role/position/tagline
-role: PhD, Computational Biologist (Contract)
+role: PhD, Sr. Computational Biologist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Roche/Genentech
-  url:
+- name: Roche Canada
+  url: https://www.rochecanada.com
 
 # Short bio (displayed in user profile at end of posts)
 bio: I use computational biology and machine learning to understand the world around me!
 
 # Interests to show in About widget
 interests:
-- \-omics Technologies
+- Various -omics technologies
 - Machine learning
-- lncRNAs
+- Single cell analysis
 - Microbiomes
-- Science Communication
+- Science communication
 
 # Education to show in About widget
 education:
@@ -76,9 +76,8 @@ email: ""
 highlight_name: true
 ---
 
-I'm Caitlin Simopoulos, a Computational Biologist and Data Scientist currently working for Roche. 
-I work closely with gRED Scientists at Genentech to find computational solutions to their omics data challenges. 
-I'm also interested in creating user-friendly bioinformatics tools for specialized data analysis. 
+I'm Caitlin Simopoulos, a Sr. Computational Biologist and Data Scientist currently working for Roche with scientists at Genentech.
+My current research focuses on airway regeneration through single cell RNA sequencing.
 
 I'm also extremely passionate about science communication and outreach. I love volunteering as a mentor promoting gender equality in STEM fields and promoting science literacy through open conversations and classroom visits.
 
