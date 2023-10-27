@@ -1,6 +1,6 @@
 ---
 title: "MetaProClust-MS1: A tool for clustering metaproteomes using rapid MS1 profiling"
-date: 2021-07-15
+date: 2022-07-15
 publishDate: 2022-08-11
 authors: ["admin", "Zhibin Ning",  "Leyuan Li", "Xu Zhang", "Mathieu Lavallée-Adam", "Daniel Figeys"]
 tags:
