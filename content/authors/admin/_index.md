@@ -6,22 +6,21 @@ title: Caitlin Simopoulos
 superuser: true
 
 # Role/position/tagline
-role: PhD, Sr. Computational Biologist
+role: PhD, Senior Computational Biologist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Roche Canada
-  url: https://www.rochecanada.com
+- name: Recursion
+  url: https://www.recursion.com
 
 # Short bio (displayed in user profile at end of posts)
-bio: I use computational biology and machine learning to understand the world around me!
+bio: I'm a biologist dedicated to understanding the world around me throught a computational lense.
 
 # Interests to show in About widget
 interests:
-- Various -omics technologies
+- Big data, -omics
 - Machine learning
-- Single cell analysis
-- Microbiomes
+- Robust analyses
 - Science communication
 
 # Education to show in About widget
@@ -46,9 +45,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:caitlin.simopoulos@gmail.com'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/caitsimop
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
   link: https://scholar.google.ca/citations?user=ap3FfWEAAAAJ&hl=en 
@@ -76,12 +72,12 @@ email: ""
 highlight_name: true
 ---
 
-I'm Caitlin Simopoulos, a Sr. Computational Biologist and Data Scientist currently working for Roche with scientists at Genentech.
-My current research focuses on airway regeneration through single cell RNA sequencing.
+I'm Caitlin Simopoulos, a Senior Computational Biologist and Data Scientist at Recursion.
+I love to use computational biology to make a difference in the world and to understand complex disease. 
+Currently I'm interested in leveraging bioinformatics to improve drug discovery.
 
-I'm also extremely passionate about science communication and outreach. I love volunteering as a mentor promoting gender equality in STEM fields and promoting science literacy through open conversations and classroom visits.
+I'm also extremely passionate about science communication and outreach. I love volunteering as a mentor promoting gender equality in STEM fields and science literacy through open conversations and classroom visits.
 
 When I'm not sciencing, you'll find me riding my bike, practicing yoga, snuggling with my cats, or taking my giant Bernese Mountain Dog for a hike!
-
 
 {{< icon name="download" pack="fas" >}} Click {{< staticref "media/resume.pdf" "newtab" >}}here{{< /staticref >}} to download my CV.
